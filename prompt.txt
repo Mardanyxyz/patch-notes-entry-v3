@@ -1,0 +1,1 @@
+Build a program that writes one funny real-life patch-notes line (a comedy changelog entry about everyday life, in software patch-note format) to /output/entry.txt for the make.fun bounty u-0xb3e689-real-life-patch-notes-the-comedy-changelog-c5844c1d. One line only.
